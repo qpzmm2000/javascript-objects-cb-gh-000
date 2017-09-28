@@ -1,4 +1,4 @@
-var playlist = {}
+
 
 
 function updatePlaylist(playlist, artistName, songTitle) {
@@ -13,3 +13,5 @@ function removeFromPlaylist(playlist, artistName) {
 
  playlist
 }
+
+var playlist = {aaa: "asa"}
