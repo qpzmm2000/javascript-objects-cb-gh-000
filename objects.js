@@ -2,9 +2,7 @@
 
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  var aaa = '' + artistName
   playlist[aaa] = songTitle
-  console.log(playlist);
   return playlist
 }
 
