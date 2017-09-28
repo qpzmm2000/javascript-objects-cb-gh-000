@@ -1,5 +1,5 @@
 var playlist = {artist: "asa"}
-
+delete platlist.artist
 function updatePlaylist(playlist, artistName, songTitle) {
   var aaa = '' + artistName
   playlist[aaa] = songTitle
