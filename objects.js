@@ -1,5 +1,5 @@
 var playlist = {artist: "asa"}
-playlist = {}
+delete playlist.artist
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
