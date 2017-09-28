@@ -2,7 +2,7 @@
 
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[aaa] = songTitle
+  playlist[artistName] = songTitle
   return playlist
 }
 
